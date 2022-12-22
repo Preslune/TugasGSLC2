@@ -5,5 +5,5 @@
 5. Jalankan "php artisan migrate"
 6. Jalankan "php artisan serve"
 7. Register akun lengkap dengan nama, email, dan password terlebih dahulu untuk login laravel
-8. Untuk login external, masukkan Client_id dan Client_app dulu di config/session.php atau melalui env
+8. Untuk login external, masukkan Client_id dan Client_app dulu di config/services.php atau melalui env
 9. Login Google/Facebook
